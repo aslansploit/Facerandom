@@ -3,15 +3,15 @@ What is Facerandom? facerandom is a tool for hacking Facebook friends from frien
 # Installation termux
 ```
 $ apt install python2 git
-$ pip2 install requests mechanize
+$ pip2 install requests mechanize bs4
 $ git clone https://github.com/aslansploit/Facerandom
 $ cd Facerandom
 $ python2 facerandom.py
 ```
-# Installation termux
+# Installation linux
 ```
 $ sudo apt-get install python git
-$ sudo pip2 install requests mechanize
+$ sudo pip2 install requests mechanize bs4
 $ git clone https://github.com/aslansploit/Facerandom
 $ cd Facerandom
 $ sudo python facerandom.py
